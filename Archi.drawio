@@ -1,9 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T17:19:12.110Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.3.1" etag="7casf-dSnCIJSk5wQqPp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T18:21:55.194Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="_Qmjm0hDD1qRCRLILsSm" version="24.3.1" type="github">
   <diagram name="Page-1" id="bTlAGFtAG2iKwsMsZKUK">
-    <mxGraphModel>
+    <mxGraphModel dx="1600" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="700" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-1" value="NIR Sensor Reading&#xa;(raw sensor readings)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="154" y="60" width="174" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-2" value="STM32 Board Central Control Hub" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="260" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-3" value="Non-Invasive Glucose Monitoring&#xa;- NIR Spectroscopy &#xa;- Signal Capture &amp; Initial Filtering&#xa;(Managed by STM32)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="251" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-4" value="Integrated Sensor Suite&#xa;- Heart Rate, SpO2, etc.&#xa;- Data Acquisition &amp; Processing&#xa;(Managed by STM32)" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="256" y="330" width="239" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.816;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-5" target="C5dxqf-JItxE45kJ7cS4-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="819.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-43" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" connectable="0" parent="C5dxqf-JItxE45kJ7cS4-42">
+          <mxGeometry x="-0.7375" relative="1" as="geometry">
+            <mxPoint x="-8" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-5" value="Is data from sensors stable and reliable?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="450" width="164" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-6" value="Data Fusion &amp; Processing&#xa;- Feature Extraction&#xa;- Enhancements by AI" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="149" y="570" width="200" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-7" value="Adjust Sensor Params&#xa;- Reattempt Data Acquisition" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="578" width="219" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-8" target="C5dxqf-JItxE45kJ7cS4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-41" value="&lt;div&gt;No&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" connectable="0" parent="C5dxqf-JItxE45kJ7cS4-40">
+          <mxGeometry x="-0.3321" y="-3" relative="1" as="geometry">
+            <mxPoint x="-14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-8" target="C5dxqf-JItxE45kJ7cS4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-49" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" connectable="0" parent="C5dxqf-JItxE45kJ7cS4-48">
+          <mxGeometry x="-0.3861" y="1" relative="1" as="geometry">
+            <mxPoint x="10" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-8" value="Is combined data valid?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="138" y="670" width="222" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-9" target="C5dxqf-JItxE45kJ7cS4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-9" value="Machine Learning Model&#xa;- Enhances Accuracy&#xa;- Runs on STM32" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="149" y="800" width="190" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-10" value="Personalized User Advice&#xa;- Activity &amp; Diet&#xa;- Natural Remedies&#xa;- Based on Diabetes Stage" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="406" y="792" width="206" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-1" target="C5dxqf-JItxE45kJ7cS4-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-16" value="" style="startArrow=none;endArrow=block;exitX=0.4987339698351346;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-2" target="C5dxqf-JItxE45kJ7cS4-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5006806062037251;exitY=1;entryX=0.5007147789001465;entryY=0;rounded=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-3" target="C5dxqf-JItxE45kJ7cS4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5007147789001465;exitY=1;entryX=0.5005069203475816;entryY=0;rounded=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-4" target="C5dxqf-JItxE45kJ7cS4-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-19" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.00016072242125559277;exitY=0.9436715948381185;entryX=0.5021458268165588;entryY=0.003535415187026515;rounded=0;strokeColor=#ffffff;labelBackgroundColor=none;fontColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-5" target="C5dxqf-JItxE45kJ7cS4-6">
+          <mxGeometry x="-0.5302" y="12" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5021458268165588;exitY=1.0035354151870266;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-6" target="C5dxqf-JItxE45kJ7cS4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-32" value="Signal Amplification" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="436" y="60" width="176" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-34" target="C5dxqf-JItxE45kJ7cS4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-34" value="Filtering&#xa;(To remove unwanted noise)&#xa;" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="436" y="146" width="183" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="C5dxqf-JItxE45kJ7cS4-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#ffffff;" edge="1" parent="1" source="C5dxqf-JItxE45kJ7cS4-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="354" y="107" as="sourcePoint" />
+            <mxPoint x="523" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
