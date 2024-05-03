@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:31:05.249Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aTw02NOBAyzvE87cU52u" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:53:53.287Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vWi7NH9110GGvtbcVRjk" version="24.3.1" type="github">
   <diagram name="Page-1" id="lmPlgZIKMHCFA8fSlBm_">
-    <mxGraphModel dx="1035" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="850" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-shield-illustration.jpg;textOpacity=15;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1.700000000000001" width="937.2" height="468.6" as="geometry" />
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-3" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -20,13 +23,10 @@
           <mxGeometry x="292.46" y="316.9" width="81.74" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
-          <mxGeometry x="690" y="286.4" width="128" height="128" as="geometry" />
+          <mxGeometry x="612" y="350" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Visit abc.com&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132" y="105.5" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.globe_internet;" vertex="1" parent="1">
-          <mxGeometry x="266" y="110" width="20" height="23" as="geometry" />
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
           <mxGeometry x="50" y="190" width="50" height="50" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;abc.com &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141.1" y="181" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-16" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#1a5fb4;" edge="1" parent="1">
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-16" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#1a5fb4;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="141" y="208" as="sourcePoint" />
             <mxPoint x="281" y="208" as="targetPoint" />
@@ -49,22 +49,22 @@
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-21" value="&lt;b&gt;IP Address - x.x.x.x&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="129.1" y="212" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-22" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#00ff00;" edge="1" parent="1">
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-22" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#00ff00;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="237" as="sourcePoint" />
-            <mxPoint x="129" y="237" as="targetPoint" />
+            <mxPoint x="262" y="237" as="sourcePoint" />
+            <mxPoint x="122" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-30" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;fillColor=#60a917;strokeColor=#00ff00;" edge="1" parent="1">
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-30" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;fillColor=#60a917;strokeColor=#00ff00;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269" y="363.4" as="sourcePoint" />
-            <mxPoint x="129" y="363.4" as="targetPoint" />
+            <mxPoint x="261" y="363.4" as="sourcePoint" />
+            <mxPoint x="121" y="363.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-31" value="&lt;b&gt;Return abc.com website&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-31" value="&lt;b&gt;return abc.com website&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141.1" y="338.4" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-32" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#1a5fb4;flowAnimation=1;" edge="1" parent="1">
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-32" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#1a5fb4;flowAnimation=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="141" y="334.4" as="sourcePoint" />
             <mxPoint x="281" y="334.4" as="targetPoint" />
@@ -79,8 +79,8 @@
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Internet&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="289.28" y="286.4" width="88.1" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bl0-9IWzGgUpa8_CMuyC-39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;abc.com&lt;font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="287.84999999999997" y="362.4" width="88.1" height="30" as="geometry" />
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-39" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;abc.com&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;x.x.x.x&lt;font&gt;&lt;span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font&gt;&lt;span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="287.84999999999997" y="365.4" width="88.1" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-41" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
           <mxGeometry x="132" y="110" width="21" height="21" as="geometry" />
@@ -90,6 +90,105 @@
         </mxCell>
         <mxCell id="bl0-9IWzGgUpa8_CMuyC-44" value="&lt;h1 style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;DNS SINKHOLE&lt;br style=&quot;font-size: 30px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="500" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-world-outline-128.png" vertex="1" parent="1">
+          <mxGeometry x="249" y="112.5" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-48" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
+          <mxGeometry x="488" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-49" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
+          <mxGeometry x="568.15" y="111.5" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Visit &lt;font color=&quot;#e01b24&quot;&gt;evil.com&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568.15" y="106" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-world-outline-128.png" vertex="1" parent="1">
+          <mxGeometry x="687" y="112.5" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.94999999999996" y="140.6" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.94999999999996" y="240" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30.94999999999996" y="364" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140.6" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-56" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#00ff00;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701.05" y="237" as="sourcePoint" />
+            <mxPoint x="561.05" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-57" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#e01b24;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580.05" y="208" as="sourcePoint" />
+            <mxPoint x="720.05" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-58" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;b&gt;IP Address - y.y.y.y&lt;/b&gt;&lt;/div&gt;&lt;br&gt;(returning sinkhole address)&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="568.15" y="225" width="151.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-59" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#e01b24&quot;&gt;&lt;b&gt;evil.com &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580.15" y="181" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-60" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="749.05" y="170.6" width="43.8" height="88.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DNS Server&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725.15" y="143.6" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-62" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
+          <mxGeometry x="489.05" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-64" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#1a5fb4;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580.05" y="337.4" as="sourcePoint" />
+            <mxPoint x="720.05" y="337.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;y.y.y.y&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580.15" y="307.4" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-68" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="749.05" y="303.5" width="37.39" height="75.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DNS SINKHOLE&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="711.78" y="277.4" width="114.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-70" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.workstation_client" vertex="1" parent="1">
+          <mxGeometry x="489.05" y="316.4" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="366.4" width="88.1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Private_Resolver.svg;" vertex="1" parent="1">
+          <mxGeometry x="772.45" y="343.3" width="40.8" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-73" value="(Threat logs collected)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700.95" y="368.4" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="612" y="579" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-76" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#e01b24&quot;&gt;&lt;b&gt;evil.com &lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;(A.A.A.A&lt;/b&gt;)&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580.15" y="417" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-77" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;strokeColor=#e01b24;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563" y="372" as="sourcePoint" />
+            <mxPoint x="619" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bl0-9IWzGgUpa8_CMuyC-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/miscellaneous-80/60/error-128.png" vertex="1" parent="1">
+          <mxGeometry x="577.15" y="371" width="23.4" height="23.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
