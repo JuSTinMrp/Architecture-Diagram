@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T12:17:09.034Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="DYEXjkbaqjseWlhRQhYP" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T12:40:34.946Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="9tLuP4CgbKlFbyx6hokI" version="24.4.6" type="github">
   <diagram name="Page-1" id="Ry3pSd6w9D9t_Aq7J8iB">
-    <mxGraphModel dx="1760" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3520" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,106 +19,21 @@
         <mxCell id="nB0PoolwAAnDLM-8O1oI-9" value="Community Linux" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="1170" y="508" width="185" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-13" value="Debian Family" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="714.5" width="179.71" height="34" as="geometry" />
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-13" value="Debian Family" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Courier New;fontSize=30;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="630" width="179.71" height="88.5" as="geometry" />
         </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-14" value="Red Hat Family" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380.01" y="730" width="125" height="34" as="geometry" />
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-14" value="Red Hat Family" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Courier New;fontSize=30;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="414.72" y="660" width="169.99" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-15" value="Slackware Family" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="670" y="810" width="140" height="34" as="geometry" />
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-15" value="Slackware Family" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Courier New;fontSize=30;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="746" y="780" width="180" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-16" value="Arch Family" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1085" y="670" width="99" height="34" as="geometry" />
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-16" value="Arch Family" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Courier New;fontSize=30;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="706" width="135" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-17" value="Gentoo Family" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Courier New;fontSize=30;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1380" y="742" width="119" height="34" as="geometry" />
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-17" value="Gentoo Family" style="whiteSpace=wrap;strokeWidth=1;fontFamily=Courier New;fontSize=30;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="721" width="170" height="76" as="geometry" />
         </mxCell>
-        <UserObject label="Debian" link="https://www.debian.org" id="nB0PoolwAAnDLM-8O1oI-18">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="83.70999999999998" y="794.5" width="66" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Ubuntu" link="https://www.ubuntu.com" id="nB0PoolwAAnDLM-8O1oI-19">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="102.70999999999998" y="844.5" width="67" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Linux Mint" link="https://www.linuxmint.com" id="nB0PoolwAAnDLM-8O1oI-20">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="136.70999999999998" y="884.5" width="88" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Elementary OS" link="https://elementary.io" id="nB0PoolwAAnDLM-8O1oI-21">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="145.70999999999998" y="937.5" width="124" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Kali Linux" link="https://www.kali.org" id="nB0PoolwAAnDLM-8O1oI-22">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="32.70999999999998" y="884.5" width="84" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Fedora" link="https://getfedora.org" id="nB0PoolwAAnDLM-8O1oI-23">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="333.01" y="844" width="66" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CentOS" link="https://www.centos.org" id="nB0PoolwAAnDLM-8O1oI-24">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="406.51" y="810" width="72" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="AlmaLinux" link="https://almalinux.org" id="nB0PoolwAAnDLM-8O1oI-25">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="405.01" y="910" width="90" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Rocky Linux" link="https://rockylinux.org" id="nB0PoolwAAnDLM-8O1oI-26">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="416.01" y="860" width="102" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Slackware" link="http://www.slackware.com" id="nB0PoolwAAnDLM-8O1oI-27">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="695.5" y="890" width="89" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Salix" link="https://salixos.org" id="nB0PoolwAAnDLM-8O1oI-28">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="715" y="930" width="50" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Arch Linux" link="https://archlinux.org" id="nB0PoolwAAnDLM-8O1oI-29">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1075" y="860" width="91" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Manjaro" link="https://manjaro.org" id="nB0PoolwAAnDLM-8O1oI-30">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1045" y="953" width="73" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="EndeavourOS" link="https://endeavouros.com" id="nB0PoolwAAnDLM-8O1oI-31">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1095" y="912" width="116" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Gentoo" link="https://www.gentoo.org" id="nB0PoolwAAnDLM-8O1oI-32">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1360" y="882" width="68" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Sabayon" link="https://www.sabayon.org" id="nB0PoolwAAnDLM-8O1oI-33">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1421" y="936" width="78" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Calculate Linux" link="https://www.calculate-linux.org" id="nB0PoolwAAnDLM-8O1oI-34">
-          <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="1470" y="978" width="124" height="34" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-36" value="" style="startArrow=none;endArrow=block;exitX=0.0030849438447218677;exitY=0.5900144197010365;entryX=0.49844275580512154;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" target="nB0PoolwAAnDLM-8O1oI-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="715" y="50.079490379618164" as="sourcePoint" />
@@ -151,7 +66,9 @@
             <Array as="points">
               <mxPoint x="990" y="592" />
               <mxPoint x="990" y="701" />
-              <mxPoint x="740" y="701" />
+              <mxPoint x="840" y="701" />
+              <mxPoint x="840" y="770" />
+              <mxPoint x="836" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,21 +76,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-50" value="" style="startArrow=none;endArrow=block;exitX=0.9973021925782128;exitY=0.6076109605623953;entryX=0.5035715183290113;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-9" target="nB0PoolwAAnDLM-8O1oI-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-51" value="" style="startArrow=none;endArrow=block;exitX=0.0017093919281266693;exitY=0.6818471647553579;entryX=0.49368687831994257;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-13" target="nB0PoolwAAnDLM-8O1oI-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-56" value="" style="startArrow=none;endArrow=block;exitX=0.001866668701171875;exitY=0.8008079858983175;entryX=0.49520200671571674;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-14" target="nB0PoolwAAnDLM-8O1oI-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-60" value="" style="startArrow=none;endArrow=block;exitX=0.3299008173196496;exitY=1;entryX=0.5022472210144728;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-15" target="nB0PoolwAAnDLM-8O1oI-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-62" value="" style="startArrow=none;endArrow=block;exitX=0.0013468578608349115;exitY=0.8014107461380788;entryX=0.49523814693912044;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-16" target="nB0PoolwAAnDLM-8O1oI-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nB0PoolwAAnDLM-8O1oI-65" value="" style="startArrow=none;endArrow=block;exitX=0.0033614214728860292;exitY=0.8704793182176966;entryX=0.491911860073314;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="nB0PoolwAAnDLM-8O1oI-17" target="nB0PoolwAAnDLM-8O1oI-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://qph.cf2.quoracdn.net/main-qimg-4a6569894e7d479b6e26301386c09202;" vertex="1" parent="1">
@@ -198,13 +100,67 @@
           <mxGeometry x="80" y="310" width="132.42" height="87" as="geometry" />
         </mxCell>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Red_Hat_Enterprise_Linux_logo.svg/2560px-Red_Hat_Enterprise_Linux_logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="518.01" y="340" width="202.78" height="48.5" as="geometry" />
+          <mxGeometry x="518.01" y="348.5" width="202.78" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-89" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Oracle_linux_logo.svg/1024px-Oracle_linux_logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="739.75" y="361" width="171.65" height="58" as="geometry" />
         </mxCell>
         <mxCell id="nB0PoolwAAnDLM-8O1oI-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/3/3b/SUSE_Linux_15.svg;" vertex="1" parent="1">
-          <mxGeometry x="630.82" y="397" width="143.43" height="98" as="geometry" />
+          <mxGeometry x="621.57" y="410" width="143.43" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/debian_logo_icon_168290.png;" vertex="1" parent="1">
+          <mxGeometry x="7.779999999999999" y="728" width="164" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="7.780000000000001" y="850.5" width="166.22" height="93.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-93" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/92/f3/b1/92f3b1027e70a29b31627616b5e9e4df.png;" vertex="1" parent="1">
+          <mxGeometry x="96.44" y="806" width="153.27" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-94" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="183.99999999999997" y="891" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-95" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elementary_logo.svg/1200px-Elementary_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="957" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-96" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Hat_Logo_2019.svg;" vertex="1" parent="1">
+          <mxGeometry x="394.18" y="751.5" width="192.35" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-97" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.centos.org/attachments/ArtWork(2f)Brand(2f)Logo/centos-logo-light.png;" vertex="1" parent="1">
+          <mxGeometry x="349.38" y="967" width="189.69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-98" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/2560px-Fedora_logo_%282021%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="471.72" y="813.68" width="168" height="47.32" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rocky_Linux_wordmark.svg/2560px-Rocky_Linux_wordmark.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="366.53" y="863.6" width="220" height="48.4" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/ffa336a0-8832-47ae-b4b5-4be3c938b692/AlmalLinux_Logo.jpg?t=1715032315;" vertex="1" parent="1">
+          <mxGeometry x="485.72" y="924" width="200.57" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Slackware_logo_from_the_official_Slackware_site.svg/1280px-Slackware_logo_from_the_official_Slackware_site.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="780" y="877.25" width="186.77" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-103" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://technophobeconfessions.files.wordpress.com/2021/02/salix.png;clipPath=inset(2.84% 7.67% 2.84% 8.67% round 37%);" vertex="1" parent="1">
+          <mxGeometry x="765" y="930" width="100.79" height="86.73" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-104" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png;" vertex="1" parent="1">
+          <mxGeometry x="1051.04" y="787.22" width="230.92" height="76.78" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i0.wp.com/endeavouros.com/wp-content/uploads/2021/04/Endeavour-horizontal-black.png?resize=690%2C184&amp;ssl=1;" vertex="1" parent="1">
+          <mxGeometry x="1141.46" y="861" width="213.54" height="56.95" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-107" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/2560px-Manjaro_logo_text.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="937" width="250.5" height="58.03" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-108" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gentoo.org/assets/img/logo/gentoo-horizontal.png;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="815.96" width="200" height="75.04" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6G82rgPbjRQZ5roq-416nhfK6N2AWoNTRPmx2Zn0sg&amp;s;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="889.73" width="127" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="nB0PoolwAAnDLM-8O1oI-113" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.calculate-linux.org/download_images/original/200xNxcl-logo.png.pagespeed.ic.dFRxwfmXHw.png;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="869.64" width="147.73" height="147.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
