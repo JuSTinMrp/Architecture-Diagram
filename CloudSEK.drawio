@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T04:47:20.878Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="LRWz1g8zTQKWGQY_gLaa" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T04:54:36.430Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Jeembo1JNLMnNaBuai9L" version="24.4.6" type="github">
   <diagram name="Page-1" id="pyT4gqNwMYlvBg9v1R_W">
     <mxGraphModel dx="765" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-1" value="Predictive Analysis Tools" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;sketch=1;curveFitting=1;jiggle=2;rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fillStyle=solid;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="104" width="661" height="193" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-2" value="Predictive Models" style="whiteSpace=wrap;strokeWidth=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#ffbe6f;fillColor=#f9f06b;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="55" y="238" width="141" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-3" value="Predictive Analysis Tools" style="whiteSpace=wrap;strokeWidth=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#ffbe6f;fillColor=#f9f06b;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="234" y="129" width="191" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-4" value="Simulation Features" style="whiteSpace=wrap;strokeWidth=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#ffbe6f;fillColor=#f9f06b;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="246" y="238" width="157" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-5" value="Visual Predictive Insights" style="whiteSpace=wrap;strokeWidth=1;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#ffbe6f;fillColor=#f9f06b;fillStyle=auto;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="454" y="238" width="193" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-32" value="" style="startArrow=none;endArrow=block;exitX=0.0020942088821171464;exitY=0.9874253345400807;entryX=0.3780810025365559;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;dashed=1;strokeColor=#77767b;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-3" target="-O-RLDdLi2TB1qPIfHpo-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-33" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;strokeWidth=2;dashed=1;strokeColor=#77767b;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-3" target="-O-RLDdLi2TB1qPIfHpo-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-O-RLDdLi2TB1qPIfHpo-44" value="" style="startArrow=none;endArrow=block;exitX=1.0024432436958033;exitY=0.920588105458116;entryX=0.6134627220102985;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeWidth=2;dashed=1;strokeColor=#77767b;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-3" target="-O-RLDdLi2TB1qPIfHpo-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
