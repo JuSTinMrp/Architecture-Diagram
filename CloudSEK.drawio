@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T04:58:00.463Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4G0EhLX2gZE_H0bc7AGV" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T05:00:29.056Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="GCG0mZX8GNAo8fZ8IZd2" version="24.4.6" type="github">
   <diagram name="Page-1" id="pyT4gqNwMYlvBg9v1R_W">
-    <mxGraphModel dx="880" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-820" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-101" value="AI Insights Dashboard" style="whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fontStyle=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2053" y="213" width="790" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-102" value="Widgets for Key Insights" style="whiteSpace=wrap;strokeWidth=1;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad9d5;strokeColor=#ae4132;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="347" width="188" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-103" value="Centralized Display" style="whiteSpace=wrap;strokeWidth=1;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad9d5;strokeColor=#ae4132;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2351" y="260" width="153" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-104" value="Charts, Graphs, Heatmaps" style="whiteSpace=wrap;strokeWidth=1;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad9d5;strokeColor=#ae4132;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2325" y="347" width="205" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-105" value="Actionable Recommendations" style="whiteSpace=wrap;strokeWidth=1;fontStyle=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#fad9d5;strokeColor=#ae4132;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="2581" y="347" width="228" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.0019608541251787174;exitY=0.8137808750778859;entryX=0.38113117266329405;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#77767b;dashed=1;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-103" target="-O-RLDdLi2TB1qPIfHpo-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#77767b;dashed=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-103" target="-O-RLDdLi2TB1qPIfHpo-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-O-RLDdLi2TB1qPIfHpo-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9969497880125358;exitY=0.785305998412287;entryX=0.6124925450075643;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;strokeColor=#77767b;dashed=1;" edge="1" parent="1" source="-O-RLDdLi2TB1qPIfHpo-103" target="-O-RLDdLi2TB1qPIfHpo-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
