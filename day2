@@ -1,29 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:30:47.149Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Ty0oP6XAe5O8MGtoA6d8" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:37:43.255Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ialYZh7LYmZOnH3Jg0Kn" version="24.5.2" type="github">
   <diagram name="Page-1" id="c2d2OmjQ7rdeziqS_yLk">
     <mxGraphModel dx="-600" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-141" value="Start Your Cybersecurity Journey" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-213" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-141" target="akS8_BUX7mIRvXp-q6ih-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-141" value="Start Your Cybersecurity Journey" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#FFFAB5;fillStyle=solid;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2170" y="130" width="230" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-143" value="Research Cybersecurity Careers" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-214" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-143" target="akS8_BUX7mIRvXp-q6ih-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-143" value="Research Cybersecurity Careers" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#dae8fc;fillStyle=solid;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2495.5" y="130" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-144" value="Understand the Importance of Certification" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-215" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-144" target="akS8_BUX7mIRvXp-q6ih-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-144" value="Understand the Importance of Certification" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2800" y="130" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-173" value="Enroll in CSEP Program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-216" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-173" target="akS8_BUX7mIRvXp-q6ih-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-173" value="Enroll in CSEP Program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=25;fontStyle=1;fillColor=default;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="2461" y="250" width="309" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-174" value="Visit: &#xa;cybervie.com/cyber-security-training-program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2140.5" y="430" width="289" height="90" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-217" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-174" target="akS8_BUX7mIRvXp-q6ih-175">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-175" value="Become a Certified Security Engineer Professional" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-174" value="Visit: &#xa;cybervie.com/cyber-security-training-program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#ffe6cc;fillStyle=solid;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="430" width="289" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-218" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;flowAnimation=1;flowAnimationDuration=800;strokeWidth=2;fillStyle=cross-hatch;fillColor=none;strokeColor=#23445d;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-175" target="akS8_BUX7mIRvXp-q6ih-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-175" value="Become a Certified Security Engineer Professional" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#f8cecc;fillStyle=solid;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2461" y="430" width="309" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-176" value="Advance Your Career in Cybersecurity" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="430" width="310" height="90" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-176" value="Advance Your Career in Cybersecurity" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillStyle=solid;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="430" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="akS8_BUX7mIRvXp-q6ih-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.0019232432047526042;exitY=0.712712114145053;entryX=0.5025002112755409;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-164">
           <mxGeometry relative="1" as="geometry">
@@ -78,6 +96,9 @@
             </Array>
             <mxPoint x="4475.925033569336" y="524" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-219" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cybervie.com/wp-content/uploads/2018/08/gif-cyberlogo.gif;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="105" width="120" height="43.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
