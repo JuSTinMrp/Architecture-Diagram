@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:01:21.949Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6wPOQcos6tXLSckFg9MS" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:01:44.291Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="yI1K8aHW8swSBIdB0idb" version="24.5.2" type="github">
   <diagram name="Page-1" id="c2d2OmjQ7rdeziqS_yLk">
-    <mxGraphModel dx="-600" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-346" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="akS8_BUX7mIRvXp-q6ih-222" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif;clipPath=inset(0% 33.33% 0% 0%);opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="2990" y="202" width="200" height="225" as="geometry" />
+          <mxGeometry x="2980" y="202" width="200" height="225" as="geometry" />
         </mxCell>
         <mxCell id="akS8_BUX7mIRvXp-q6ih-144" value="Understand the Importance of Certification" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontSize=20;fontStyle=0;fillColor=#d5e8d4;fillStyle=solid;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2800" y="130" width="290" height="70" as="geometry" />
