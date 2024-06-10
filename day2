@@ -1,43 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:26:39.362Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="qRtEbq6X-mHKsYl4WpQi" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:30:47.149Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Ty0oP6XAe5O8MGtoA6d8" version="24.5.2" type="github">
   <diagram name="Page-1" id="c2d2OmjQ7rdeziqS_yLk">
     <mxGraphModel dx="-600" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-141" target="akS8_BUX7mIRvXp-q6ih-143">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-141" value="Start Your Cybersecurity Journey" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="130" width="230" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-141" value="Start Your Cybersecurity Journey" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2491" y="100" width="249" height="34" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-143" value="Research Cybersecurity Careers" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2495.5" y="130" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-143" value="Research Cybersecurity Careers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2491" y="188" width="247" height="34" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-144" value="Understand the Importance of Certification" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="130" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-144" value="Understand the Importance of Certification" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2457" y="272" width="316" height="34" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-173" value="Enroll in CSEP Program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2461" y="250" width="309" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-173" value="Enroll in CSEP Program" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2522" y="360" width="187" height="34" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-174" value="Visit: &#xa;cybervie.com/cyber-security-training-program" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2140.5" y="430" width="289" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-174" value="Visit: cybervie.com/cyber-security-training-program" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2428" y="444" width="375" height="34" as="geometry" />
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-175" value="Become a Certified Security Engineer Professional" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2461" y="430" width="309" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-175" value="Become a Certified Security Engineer Professional" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2428" y="528" width="374" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-176" value="Advance Your Career in Cybersecurity" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2472" y="612" width="287" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-179" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4995277343008682;exitY=1;entryX=0.4980485771275774;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-143" target="akS8_BUX7mIRvXp-q6ih-144">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-180" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4980485771275774;exitY=1;entryX=0.49944715816262775;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-144">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="2614.3833503723145" y="356" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="akS8_BUX7mIRvXp-q6ih-176" value="Advance Your Career in Cybersecurity" style="whiteSpace=wrap;strokeWidth=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="430" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="akS8_BUX7mIRvXp-q6ih-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.0019232432047526042;exitY=0.712712114145053;entryX=0.5025002112755409;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-164">
           <mxGeometry relative="1" as="geometry">
@@ -91,21 +77,6 @@
               <mxPoint x="4476" y="499" />
             </Array>
             <mxPoint x="4475.925033569336" y="524" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-209" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49786115840157086;exitY=1;entryX=0.4989334309895833;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-173" target="akS8_BUX7mIRvXp-q6ih-174">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-210" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4989334309895833;exitY=1;entryX=0.5002674775965074;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-174" target="akS8_BUX7mIRvXp-q6ih-175">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="akS8_BUX7mIRvXp-q6ih-211" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5002674775965074;exitY=1;entryX=0.49860639937663326;entryY=0;rounded=0;" edge="1" parent="1" source="akS8_BUX7mIRvXp-q6ih-175" target="akS8_BUX7mIRvXp-q6ih-176">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
