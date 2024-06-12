@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T11:42:51.237Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="PV9u1ktQU-D6Vz8vQmeh" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T11:45:23.733Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Q9mlJ2qE5fRzgJT5CovL" version="24.5.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1129" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="979" value="" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=24;align=center;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="854" y="31" width="776" height="1609" as="geometry" />
+          <mxGeometry x="843" y="31" width="776" height="1609" as="geometry" />
+        </mxCell>
+        <mxCell id="XBBlguZ7tHrmsA-5Tp1U-1070" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flatforlinux/128/27-Edit%20Text.png" vertex="1" parent="1">
+          <mxGeometry x="879" y="1508" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="XBBlguZ7tHrmsA-5Tp1U-1069" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/562_competition_contest_expert_judge_jury_cyber_spot_security-128.png" vertex="1" parent="1">
+          <mxGeometry x="1445" y="986" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="XBBlguZ7tHrmsA-5Tp1U-1068" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.simulation;" vertex="1" parent="1">
+          <mxGeometry x="914" y="1041.7900000000002" width="88" height="72.21" as="geometry" />
         </mxCell>
         <mxCell id="XBBlguZ7tHrmsA-5Tp1U-1067" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-startup-10/50/4-128.png" vertex="1" parent="1">
           <mxGeometry x="1119" y="250" width="88" height="88" as="geometry" />
