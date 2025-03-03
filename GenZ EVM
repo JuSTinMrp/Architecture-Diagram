@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.17" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.7.17" pages="2">
   <diagram name="Block" id="ZZINynu2Dk_ROKbbd9RP">
     <mxGraphModel dx="765" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,62 +9,6 @@
         </mxCell>
         <mxCell id="FeizSn6ALNEkqpgmhcWC-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="40" width="300" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-11" value="Voter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2058" y="58" width="97" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-12" value="Ballot Unit" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="2056" y="217" width="103" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-13" value="Control Unit" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="339" width="133" height="133" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-14" value="Offline Blockchain Ledger" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="545" width="242" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-15" value="Central Server" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2152" y="545" width="163" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-16" value="Election Results" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2146" y="667" width="175" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-17" value="Fingerprint Scan" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-11" target="FeizSn6ALNEkqpgmhcWC-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-18" value="Encrypted Vote" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-12" target="FeizSn6ALNEkqpgmhcWC-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2042" y="303" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-19" value="SPI + CRC-32" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.82;entryY=0;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-12" target="FeizSn6ALNEkqpgmhcWC-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2172" y="303" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-20" value="SHA-256 Hash Chain" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-13" target="FeizSn6ALNEkqpgmhcWC-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1981" y="509" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-21" value="Encrypted USB Export" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.91;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-13" target="FeizSn6ALNEkqpgmhcWC-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2233" y="509" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FeizSn6ALNEkqpgmhcWC-22" value="Hash Verification" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FeizSn6ALNEkqpgmhcWC-15" target="FeizSn6ALNEkqpgmhcWC-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FeizSn6ALNEkqpgmhcWC-7" value="STM32MP135" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="940" y="90" width="119" height="40" as="geometry" />
@@ -88,10 +32,10 @@
           <mxGeometry x="607.7300000000001" y="150" width="116.18" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FeizSn6ALNEkqpgmhcWC-4" value="HSM for AES-256 Keys" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="763" y="150" width="115.18" height="40" as="geometry" />
+          <mxGeometry x="758" y="150" width="115.18" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FeizSn6ALNEkqpgmhcWC-5" value="Tamper Detection Pins" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="90" width="118.18" height="40" as="geometry" />
+          <mxGeometry x="755" y="90" width="118.18" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FeizSn6ALNEkqpgmhcWC-26" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Control Unit&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="110" height="30" as="geometry" />
@@ -99,19 +43,120 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Sc3d3FmJDzxVauzEXD1O" name="Archi">
-    <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="UrB6qwcy74uiF73PjILt" name="Flow">
-    <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-48" value="Start" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="1020" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-49" target="Cdk1d9Wz-JHhR0QOBro8-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-49" value="Voter Initiates Voting" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1082" width="184" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-50" target="Cdk1d9Wz-JHhR0QOBro8-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-50" target="Cdk1d9Wz-JHhR0QOBro8-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1183" />
+              <mxPoint x="560" y="1910" />
+              <mxPoint x="350" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-50" value="Fingerprint Valid?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="1148" width="173" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-51" target="Cdk1d9Wz-JHhR0QOBro8-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-51" value="Select Party" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1268" width="146" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-53" target="Cdk1d9Wz-JHhR0QOBro8-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-53" target="Cdk1d9Wz-JHhR0QOBro8-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1398" />
+              <mxPoint x="200" y="1293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-53" value="Confirm Vote?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275.5" y="1368" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-54" value="Encrypt Vote (AES-256) &amp; Send to Control Unit" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="223" y="1473" width="255" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-55" value="Store in EEPROM + Update SHA-256 Hash Chain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="221" y="1583" width="259" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="QVKOPa5aeJL7aqCuwSfn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-56" target="Cdk1d9Wz-JHhR0QOBro8-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVKOPa5aeJL7aqCuwSfn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-56" target="Cdk1d9Wz-JHhR0QOBro8-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-56" value="Tamper Detected?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1700" width="180" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="QVKOPa5aeJL7aqCuwSfn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-57" target="Cdk1d9Wz-JHhR0QOBro8-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1910" />
+              <mxPoint x="350" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-57" value="Lock System &amp; Alert Admin" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1695" width="140" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="QVKOPa5aeJL7aqCuwSfn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-60" target="Cdk1d9Wz-JHhR0QOBro8-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-60" value="Verify Hash Chain " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1800" width="210" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-61" value="End " style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1946.5" width="70" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-48" target="Cdk1d9Wz-JHhR0QOBro8-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-54" target="Cdk1d9Wz-JHhR0QOBro8-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Cdk1d9Wz-JHhR0QOBro8-55" target="Cdk1d9Wz-JHhR0QOBro8-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-79" value="&lt;i&gt;Yes&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1229" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-80" value="&lt;i&gt;No&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487" y="1153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-84" value="&lt;i&gt;Yes&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1438" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-92" value="&lt;i&gt;No&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215.5" y="1372" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cdk1d9Wz-JHhR0QOBro8-94" value="&lt;i&gt;Yes&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204.5" y="1695" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
